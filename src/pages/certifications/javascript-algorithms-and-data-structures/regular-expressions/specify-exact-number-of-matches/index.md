@@ -1,6 +1,10 @@
 ---
 title: Specify Exact Number of Matches
 ---
+
+
+let timRegex = /Tim{4}ber/; 
+
 ## Specify Exact Number of Matches
 
 This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/pages/certifications/javascript-algorithms-and-data-structures/regular-expressions/specify-exact-number-of-matches/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
